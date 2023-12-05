@@ -1,1 +1,1 @@
-https://github.com/p1kcherino/ono-tebe-nado
+https://github.com/p1kcherino/ono-tebe-nado-2
