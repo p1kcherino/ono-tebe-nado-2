@@ -1,2 +1,1 @@
-# ono-tebe-nado-2
-Проект "Оно тебе надо" 
+https://github.com/p1kcherino/ono-tebe-nado
