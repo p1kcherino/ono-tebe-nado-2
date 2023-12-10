@@ -37,14 +37,9 @@
  text-decoration: none;
 }
 
-.header__logo {
+.header__logo-image {
  width: 148px;
  height: 105px;
-}
-
-.header__logo-image {
- width: 100%;
- height: 100%;
 }
 
 .header__address {
@@ -272,7 +267,7 @@
 }
 
 .footer {
- padding: 182px 50px 90px 50px;
+ padding: 184px 50px 90px 50px;
  display: flex;
  justify-content: space-between;
 }
